@@ -26,10 +26,10 @@ All deposits are protected against MEV (Maximal Extractable Value) attacks. The 
 
 ## Things to Consider
 
-**Manager risk:** The BSKT manager controls the basket's allocation. If the manager makes poor rebalancing decisions, the basket's value may decline. Review the manager's track record on the Leaderboard before investing.
+**Manager risk:** The BSKT manager controls the basket's allocation. If the manager makes poor rebalancing decisions, the basket's value may decline. Review the manager's track record on the Leaderboard before investing. A manager can also extract TVL by adding a honeypot or a token they have provided LP for and then removing the LP from DEX. It is important to carry out DD on your manager and invest at your own risk.
 
 **Smart contract risk:** Your assets are held by the BSKT smart contract. While the contracts have been audited, all smart contract interactions carry inherent risk.
 
 **Token risk:** The underlying tokens in a BSKT are subject to their own market risks. A basket holding volatile tokens will itself be volatile. Check the risk ratings on the BSKT detail page.
 
-**Network:** BSKT deposits happen on Base. Ensure your wallet is connected to the Base network and that you have ETH on Base for the deposit and gas fees.
+**Network:** BSKT deposits are available on Eth and Base. Ensure your wallet is connected to the correct network and that you have ETH on the correct chain for the deposit and gas fees.
