@@ -6,20 +6,20 @@ The Manager Leaderboard is a public ranking of all fund managers on the Alvara p
 
 Managers are ranked based on a combination of:
 
-- **Total AUM** — Combined TVL across all BSKTs they manage
-- **Performance** — Weighted average returns across their baskets
-- **Number of BSKTs** — How many baskets the manager operates
-- **Best performer** — Their top-performing BSKT
+- **Total AUM:** Combined TVL across all BSKTs they manage
+- **Performance:** Weighted average returns across their baskets
+- **Number of BSKTs:** How many baskets the manager operates
+- **Best performer:** Their top-performing BSKT
 
 ## Manager Profile
 
 Each manager has a public profile page showing:
 
 - **Wallet address** with optional ENS name
-- **Verified identity** — Linked X (Twitter) profile and Gitcoin Passport score
+- **Verified identity:** Linked X (Twitter) profile and Gitcoin Passport score
 - **All managed BSKTs** with individual performance data
-- **Aggregate statistics** — Total AUM, average performance, creation history
-- **Activity feed** — Recent management actions across all baskets
+- **Aggregate statistics:** Total AUM, average performance, creation history
+- **Activity feed:** Recent management actions across all baskets
 
 ## Identity Verification
 
@@ -45,5 +45,5 @@ The leaderboard creates a meritocratic environment where:
 
 - Good managers rise to the top based on real performance data
 - Investors can make informed decisions about where to deploy capital
-- Track records are permanent and on-chain — they cannot be fabricated
+- Track records are permanent and on-chain. They cannot be fabricated
 - Gauge weight voters can identify high-performing BSKTs to direct ALVA rewards toward

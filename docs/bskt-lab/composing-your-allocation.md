@@ -4,9 +4,9 @@ The first step in creating a BSKT is selecting which tokens to include and how m
 
 ## Selecting Tokens
 
-Search for and add ERC-20 tokens available on the Base network. The token list is sourced from validated registries to ensure you're selecting legitimate tokens.
+Search for and add ERC-20 tokens available on the Base network. The token list is sourced from validated registries, so you only see legitimate tokens.
 
-For each token you add, you assign a **weight** — the percentage of the basket's total value that should be allocated to that token.
+For each token you add, you assign a **weight:** the percentage of the basket's total value that should be allocated to that token.
 
 ## ALVA Minimum
 
@@ -33,7 +33,7 @@ If a token has a detected tax, you'll see it noted in the interface. You can als
 
 ## Tips for Good Allocation Design
 
-- **Diversification** — Spreading across multiple tokens reduces the impact of any single token's decline
-- **Conviction weighting** — Assign higher weights to tokens you have the most confidence in
-- **Liquidity awareness** — Tokens with very low liquidity may experience higher slippage during rebalancing
-- **Rebalancing frequency** — Consider how often you plan to rebalance when choosing the number of tokens. More tokens means more complexity.
+- **Diversification:** Spreading across multiple tokens reduces the impact of any single token's decline
+- **Conviction weighting:** Assign higher weights to tokens you have the most confidence in
+- **Liquidity awareness:** Tokens with very low liquidity may experience higher slippage during rebalancing
+- **Rebalancing frequency:** Consider how often you plan to rebalance when choosing the number of tokens. More tokens means more complexity.

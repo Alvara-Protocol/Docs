@@ -19,7 +19,7 @@ BSKTs operate on Base. Staking and DAO governance operate on Ethereum mainnet. A
 A BSKT is a tokenized portfolio of ERC-20 tokens, built on the ERC-7621 standard. It functions like an on-chain index fund or ETF, managed by a single wallet address.
 
 **Can I lose money investing in a BSKT?**
-Yes. BSKTs hold volatile crypto assets whose value can decrease. Additionally, the manager's allocation decisions may not always perform well. Only invest what you can afford to lose.
+Yes. BSKTs hold volatile crypto assets whose value can decrease. The manager's allocation decisions may not always perform well. Only invest what you can afford to lose.
 
 **Can the manager steal my funds?**
 No. BSKTs are non-custodial. The manager can change the basket's token allocation (rebalance), but cannot withdraw investor funds. Only you can redeem your LP tokens.
@@ -54,7 +54,7 @@ veALVA (vote-escrowed ALVA) is the governance token earned by locking ALVA. It p
 For time locks: No. You must wait until the lock period expires to withdraw. For forever locks: No. Forever locks are permanent and irreversible.
 
 **Does veALVA decay?**
-For time locks, yes — veALVA decays linearly as the lock approaches expiry. For forever locks, no — veALVA is permanent.
+For time locks, yes, veALVA decays linearly as the lock approaches expiry. For forever locks, no, veALVA is permanent.
 
 **Which locks earn staking rewards?**
 Locks of 3 months or longer earn staking rewards. 1-week and 1-month locks provide veALVA governance power but no staking rewards.

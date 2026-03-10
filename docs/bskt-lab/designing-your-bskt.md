@@ -1,13 +1,13 @@
 # Designing Your BSKT
 
-The second step in creating a BSKT is giving it an identity — a name, ticker symbol, description, and logo.
+The second step in creating a BSKT is giving it an identity: a name, ticker symbol, description, and logo.
 
 ## Name & Ticker
 
-Choose a name and ticker symbol for your BSKT. These will be displayed across the platform — on the Explore page, Leaderboard, and BSKT detail page.
+Choose a name and ticker symbol for your BSKT. These will be displayed across the platform: on the Explore page, Leaderboard, and BSKT detail page.
 
-- **Name** — A descriptive name for your basket (e.g., "DeFi Blue Chips")
-- **Ticker** — A short symbol, typically 3-6 characters (e.g., "DEFI")
+- **Name:** A descriptive name for your basket (e.g., "DeFi Blue Chips")
+- **Ticker:** A short symbol, typically 3-6 characters (e.g., "DEFI")
 
 Names are filtered for inappropriate content. Choose something professional and descriptive that helps investors understand your strategy at a glance.
 
@@ -23,4 +23,4 @@ A distinctive logo helps your BSKT stand out on the Explore page and builds reco
 
 ## Metadata Storage
 
-Your BSKT's metadata (name, ticker, description, and logo) is stored on IPFS as a JSON document. The IPFS hash is recorded on-chain as the BSKT's `tokenURI`, ensuring the metadata is permanent and decentralized.
+Your BSKT's metadata (name, ticker, description, and logo) is stored on IPFS as a JSON document. The IPFS hash is recorded on-chain as the BSKT's `tokenURI`, so the metadata is permanent and decentralized.

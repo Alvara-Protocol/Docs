@@ -1,6 +1,6 @@
 # Core Concepts
 
-Before diving into the platform, it helps to understand the key building blocks of the Alvara ecosystem.
+Before using the platform, here are the key building blocks of the Alvara ecosystem.
 
 ## BSKT (Basket Token)
 
@@ -16,7 +16,7 @@ When you invest in a BSKT, you receive **LP tokens** representing your proportio
 
 ## Manager
 
-A Manager is the wallet that created a BSKT. Managers have exclusive control over their basket's allocation — they can rebalance token weights, trigger emergency controls, and earn management fees.
+A Manager is the wallet that created a BSKT. Managers have exclusive control over their basket's allocation. They can rebalance token weights, trigger emergency controls, and earn management fees.
 
 Managers do not have custody of depositor funds. They can only change what the basket holds, not withdraw other people's capital.
 
@@ -26,9 +26,9 @@ Management rights are represented as an NFT, meaning they can be transferred or 
 
 ALVA is the native ERC-20 utility token of the Alvara Protocol. It serves three core functions:
 
-1. **Governance** — Lock ALVA to receive veALVA voting power
-2. **BSKT Requirement** — Every BSKT must contain a minimum ALVA allocation
-3. **Staking Rewards** — Stakers earn ALVA rewards proportional to their lock commitment
+1. **Governance:** Lock ALVA to receive veALVA voting power
+2. **BSKT Requirement:** Every BSKT must contain a minimum ALVA allocation
+3. **Staking Rewards:** Stakers earn ALVA rewards proportional to their lock commitment
 
 ALVA has a fixed maximum supply and is deflationary: tokens locked forever in the staking contract are permanently removed from circulating supply.
 
@@ -39,7 +39,7 @@ veALVA is the governance token of the Alvara DAO. You receive veALVA by locking 
 - **How much** ALVA you lock
 - **How long** you lock it for
 
-Longer commitments earn disproportionately more veALVA. veALVA is non-transferable — it can only be earned through staking.
+Longer commitments earn disproportionately more veALVA. veALVA is non-transferable. It can only be earned through staking.
 
 ## Epoch
 
@@ -53,6 +53,6 @@ The mechanism by which veALVA holders direct ALVA rewards. Each epoch, voters al
 
 When you invest in a BSKT, you receive LP (Liquidity Provider) tokens. These represent your share of the basket's total value. LP tokens can be:
 
-- **Redeemed for ETH** — Sell your share back for ETH at current market value
-- **Redeemed for underlying tokens** — Receive the basket's constituent tokens in proportion to your share
-- **Held** — Continue holding exposure to the manager's strategy
+- **Redeemed for ETH:** Sell your share back for ETH at current market value
+- **Redeemed for underlying tokens:** Receive the basket's constituent tokens in proportion to your share
+- **Held:** Continue holding exposure to the manager's strategy

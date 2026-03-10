@@ -11,7 +11,7 @@ Staking rewards are distributed continuously based on your SRV (Staking Reward V
 - Long locks (24-48 months) earn **significant rewards**
 - Forever locks earn the **maximum reward rate** at 50% SRV
 
-Rewards accumulate automatically — you don't need to take any action for them to accrue.
+Rewards accumulate automatically. You don't need to take any action for them to accrue.
 
 ## Claiming Rewards
 
@@ -44,4 +44,4 @@ Not all locks are eligible for staking rewards:
 | 3 Months+ | Yes |
 | Forever | Yes |
 
-Short locks (under 3 months) provide veALVA governance power but do not earn staking rewards. This ensures the reward pool is distributed to those with meaningful protocol commitment.
+Short locks (under 3 months) provide veALVA governance power but do not earn staking rewards. So the reward pool goes to stakers with real protocol commitment.

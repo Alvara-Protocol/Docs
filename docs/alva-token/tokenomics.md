@@ -1,6 +1,6 @@
 # Tokenomics
 
-The ALVA tokenomics are designed to create sustainable value accrual and align incentives across all participants in the ecosystem.
+ALVA's token model drives value to long-term holders and aligns incentives across participants.
 
 ## Supply
 
@@ -29,7 +29,7 @@ ALVA → Lock → veALVA → Vote on Gauge Weights → Direct Rewards to BSKTs
             Compound or Claim
 ```
 
-This creates a flywheel:
+This creates a cycle:
 1. Lock ALVA to earn veALVA
 2. Use veALVA to vote and earn rewards
 3. Compound rewards back into the lock

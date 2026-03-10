@@ -16,7 +16,7 @@ The interface for creating new BSKTs. A three-step process: Compose (select toke
 A recurring governance cycle (typically one week) during which veALVA holders cast gauge weight votes. At the end of each epoch, rewards are calculated and distributed.
 
 **ERC-7621**
-The Basket Token Standard — an Ethereum Improvement Proposal defining how tokenized investment portfolios can be implemented as smart contracts.
+The Basket Token , an Ethereum Improvement Proposal defining how tokenized investment portfolios can be implemented as smart contracts.
 
 **Forever Lock**
 A permanent ALVA staking option where tokens can never be withdrawn. Provides a 2.0x veALVA multiplier and 50% SRV rate. Effectively burns the locked ALVA.

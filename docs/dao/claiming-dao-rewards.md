@@ -10,7 +10,7 @@ DAO rewards use a **merkle proof** system:
 2. A merkle tree is generated and its root is published on-chain
 3. Each eligible address receives a merkle proof that can be used to claim their ALVA
 
-This system is gas-efficient — it allows batch reward distribution without requiring individual on-chain transactions for each recipient.
+This system is gas-efficient. It allows batch reward distribution without requiring individual on-chain transactions for each recipient.
 
 ## How to Claim
 
@@ -32,14 +32,14 @@ DAO reward claims happen on **Ethereum mainnet**. If your wallet is connected to
 ## Checking Your Rewards
 
 The Claim Rewards tab shows:
-- **Per-epoch breakdown** — Reward amount for each epoch
-- **Total pending** — Sum of all unclaimed rewards
-- **Claim status** — Whether each epoch's rewards have been claimed
+- **Per-epoch breakdown:** Reward amount for each epoch
+- **Total pending:** Sum of all unclaimed rewards
+- **Claim status:** Whether each epoch's rewards have been claimed
 
 The **My DAO Profile** tab (available when your wallet is connected) provides a summary of your total unclaimed DAO rewards alongside your veALVA balance and voting power.
 
 ## Important Notes
 
 - You must have participated in gauge weight voting during an epoch to be eligible for that epoch's rewards
-- Claims do not expire — you can claim rewards from past epochs at any time
+- Claims do not expire. You can claim rewards from past epochs at any time
 - Claimed ALVA is sent directly to your wallet on Ethereum mainnet

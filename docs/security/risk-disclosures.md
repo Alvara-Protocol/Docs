@@ -4,7 +4,7 @@ Interacting with Alvara Protocol involves multiple types of risk. This page outl
 
 ## Smart Contract Risk
 
-All DeFi protocols rely on smart contracts — code deployed on the blockchain. Despite audits and testing, smart contracts may contain undiscovered vulnerabilities that could result in loss of funds. Alvara's contracts have been audited by QuillAudits (see [Audits](audits.md)), but audits reduce risk without eliminating it.
+All DeFi protocols rely on smart contracts (code deployed on the blockchain). Despite audits and testing, smart contracts may contain undiscovered vulnerabilities that could result in loss of funds. Alvara's contracts have been audited by QuillAudits (see [Audits](audits.md)), but audits reduce risk without eliminating it.
 
 ## Market Risk
 
@@ -12,7 +12,7 @@ The value of tokens held in BSKTs fluctuates with market conditions. A BSKT's va
 
 ## Manager Risk
 
-BSKT managers control the allocation of basket assets. Poor management decisions — such as rebalancing into underperforming tokens or failing to respond to market events — can result in losses for LP token holders. Evaluate a manager's track record carefully before investing.
+BSKT managers control the allocation of basket assets. Poor management decisions, such as rebalancing into underperforming tokens or failing to respond to market events, can result in losses for LP token holders. Evaluate a manager's track record carefully before investing.
 
 ## Liquidity Risk
 
@@ -20,7 +20,7 @@ Some tokens within a BSKT may have limited liquidity. This can cause slippage du
 
 ## Regulatory Risk
 
-The regulatory landscape for DeFi and cryptocurrency is evolving. Changes in laws or regulations in your jurisdiction may affect your ability to use the platform or the value of tokens you hold.
+Regulation around DeFi and cryptocurrency is evolving. Changes in laws or regulations in your jurisdiction may affect your ability to use the platform or the value of tokens you hold.
 
 ## Bridge and Multi-Chain Risk
 

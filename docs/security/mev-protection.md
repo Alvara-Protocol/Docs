@@ -6,9 +6,9 @@ All token swap operations in the Alvara Protocol are protected against MEV (Maxi
 
 MEV refers to the profit that can be extracted by reordering, inserting, or censoring transactions within a block. Common MEV attacks include:
 
-- **Front-running** — An attacker sees your pending swap and places their own transaction before yours, moving the price against you
-- **Sandwich attacks** — An attacker places transactions both before and after yours, profiting from the price movement they create
-- **Back-running** — An attacker places a transaction immediately after yours to capture arbitrage opportunities
+- **Front-running:** An attacker sees your pending swap and places their own transaction before yours, moving the price against you
+- **Sandwich attacks:** An attacker places transactions both before and after yours, profiting from the price movement they create
+- **Back-running:** An attacker places a transaction immediately after yours to capture arbitrage opportunities
 
 These attacks can result in worse execution prices for your transactions.
 
@@ -21,7 +21,7 @@ Alvara uses a backend signing service to protect against MEV:
 3. The backend signs the transaction data with a deadline
 4. The signed transaction is submitted on-chain with MEV protection
 
-This process happens automatically — you don't need to take any action or configure anything.
+This process happens automatically. You don't need to take any action or configure anything.
 
 ## Protected Operations
 

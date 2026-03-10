@@ -23,15 +23,15 @@ Gauge weight voting is the mechanism that connects governance to capital allocat
 
 The **Gauge Weight** tab on the DAO page displays:
 
-- **Vote distribution** — A visual breakdown of how votes were allocated across BSKTs for any epoch
-- **Results table** — Token-by-token breakdown showing vote counts and percentages
-- **Epoch history** — Navigate between past epochs to see how voting patterns have evolved
+- **Vote distribution:** A visual breakdown of how votes were allocated across BSKTs for any epoch
+- **Results table:** Token-by-token breakdown showing vote counts and percentages
+- **Epoch history:** Navigate between past epochs to see how voting patterns have evolved
 
 ## Voting Strategy
 
 When deciding where to direct your gauge weight:
 
-- **Performance** — BSKTs with strong track records may attract more capital and benefit the ecosystem
-- **Manager quality** — Consider the manager's track record, identity verification, and communication
-- **Ecosystem value** — Some BSKTs may align with broader protocol goals or fill gaps in the ecosystem
-- **Self-interest** — If you hold LP tokens in a BSKT, voting for it increases the ALVA rewards you receive as a depositor
+- **Performance:** BSKTs with strong track records may attract more capital and benefit the ecosystem
+- **Manager quality:** Consider the manager's track record, identity verification, and communication
+- **Ecosystem value:** Some BSKTs may align with broader protocol goals or fill gaps in the ecosystem
+- **Self-interest:** If you hold LP tokens in a BSKT, voting for it increases the ALVA rewards you receive as a depositor

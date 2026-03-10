@@ -12,10 +12,10 @@ The total USD value of all assets held in the BSKT. Higher TVL generally indicat
 
 ### Returns
 Performance measured over standard timeframes:
-- **24h** — Short-term price movement
-- **7d** — Weekly performance
-- **30d** — Monthly performance
-- **All-time** — Since the BSKT was created
+- **24h:** Short-term price movement
+- **7d:** Weekly performance
+- **30d:** Monthly performance
+- **All-time:** Since the BSKT was created
 
 Returns account for changes in underlying token prices and any rebalancing activity.
 
@@ -31,10 +31,10 @@ These ratings provide an additional data point for evaluating the risk profile o
 ## Activity History
 
 Every BSKT maintains a complete, on-chain transaction history including:
-- **Deposits** — When investors add capital
-- **Redemptions** — When investors withdraw
-- **Rebalances** — When the manager changes the allocation
-- **Emergency events** — If the manager triggers emergency controls
+- **Deposits:** When investors add capital
+- **Redemptions:** When investors withdraw
+- **Rebalances:** When the manager changes the allocation
+- **Emergency events:** If the manager triggers emergency controls
 
 This history is fully transparent and verifiable on-chain.
 

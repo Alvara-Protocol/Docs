@@ -1,6 +1,6 @@
 # Manager Identity
 
-Alvara provides optional identity verification tools that help managers build trust with investors. While all management activity is transparent on-chain, connecting off-chain identity signals adds an extra layer of credibility.
+Alvara provides optional identity verification tools that help managers build trust with investors. While all management activity is transparent on-chain, connecting off-chain identity signals helps build credibility.
 
 ## X (Twitter) Verification
 
@@ -18,7 +18,7 @@ You can unlink your X account at any time from the same interface.
 Gitcoin Passport is a decentralized identity verification tool. It aggregates multiple identity signals (social accounts, on-chain activity, biometric checks) into a single humanity score.
 
 To connect:
-1. Create a Gitcoin Passport at [passport.gitcoin.co](https://passport.gitcoin.co)
+1. Create a Passport at [app.passport.xyz](https://app.passport.xyz)
 2. Complete verification stamps to build your score
 3. Your score is automatically detected when you use the Alvara platform
 
@@ -34,4 +34,4 @@ To connect:
 
 Any wallet's portfolio and manager profile is publicly viewable. Navigate to `/portfolio/{walletAddress}` to view any address's holdings, managed BSKTs, and identity information.
 
-This transparency is by design — in a permissionless system, reputation is built through verifiable on-chain actions and optional identity signals.
+This transparency is intentional. In a permissionless system, reputation is built through verifiable on-chain actions and optional identity signals.

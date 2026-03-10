@@ -14,9 +14,9 @@ A Manager is any wallet that has created a BSKT. As a manager, you have exclusiv
 
 ## What Managers Cannot Do
 
-- **Withdraw investor funds** — Only LP token holders can redeem their own share
-- **Freeze redemptions** — Investors can always exit
-- **Mint additional LP tokens** — LP supply is determined by deposits and redemptions only
+- **Withdraw investor funds:** Only LP token holders can redeem their own share
+- **Freeze redemptions:** Investors can always exit
+- **Mint additional LP tokens:** LP supply is determined by deposits and redemptions only
 
 This separation of powers ensures the system is non-custodial. Managers control the strategy; investors control their capital.
 
@@ -38,7 +38,7 @@ Your manager rights are represented as an ERC-721 NFT. This means:
 - Rights could be sold on the BSKT Marketplace (a secondary market for management positions)
 - Whoever holds the management NFT controls the basket
 
-This creates a market for fund management positions — successful managers with large AUM and strong track records hold a valuable asset.
+This creates a market for fund management positions. Successful managers with large AUM and strong track records hold a valuable asset.
 
 ## Building Your Reputation
 

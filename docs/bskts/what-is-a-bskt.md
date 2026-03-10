@@ -4,9 +4,9 @@ A BSKT (pronounced "basket") is a tokenized investment portfolio on the blockcha
 
 ## How BSKTs Work
 
-Think of a BSKT like an on-chain index fund or ETF. A manager selects a set of tokens and assigns each a target weight (e.g., 40% ETH, 30% LINK, 25% AAVE, 5% ALVA). Investors can deposit ETH into the BSKT, which is automatically converted into the basket's constituent tokens according to those weights.
+A BSKT works like an on-chain index fund or ETF. A manager selects a set of tokens and assigns each a target weight (e.g., 40% ETH, 30% LINK, 25% AAVE, 5% ALVA). Investors can deposit ETH into the BSKT, which is automatically converted into the basket's constituent tokens according to those weights.
 
-In return, investors receive **LP tokens** — fungible tokens representing their proportional share of the basket. These LP tokens can be redeemed at any time.
+In return, investors receive **LP tokens:** fungible tokens representing their proportional share of the basket. These LP tokens can be redeemed at any time.
 
 ## Key Properties
 

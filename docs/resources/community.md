@@ -6,14 +6,14 @@
 | --- | --- | --- |
 | Discord | [discord.com/invite/alvaraprotocol](https://discord.com/invite/alvaraprotocol) | Community chat, support, announcements |
 | Telegram | [t.me/alvaraprotocol](https://t.me/alvaraprotocol) | Community discussions |
-| X (Twitter) | [@AlvaraProtocol](https://twitter.com/AlvaraProtocol) | News, updates, announcements |
+| X (Twitter) | [@AlvaraProtocol](https://x.com/AlvaraProtocol) | News, updates, announcements |
 
 ## Governance
 
 | Platform | Link | Purpose |
 | --- | --- | --- |
 | Governance Forum | [governance.alvara.xyz](https://governance.alvara.xyz) | Proposal discussion and debate |
-| Snapshot | [snapshot.org/#/alvaragov.eth](https://snapshot.org/#/alvaragov.eth) | On-chain governance voting |
+| Snapshot | [snapshot.org/#/s:bskt.eth](https://snapshot.org/#/s:bskt.eth) | On-chain governance voting |
 
 ## Resources
 
@@ -21,9 +21,13 @@
 | --- | --- |
 | App | [app.alvara.xyz](https://app.alvara.xyz) |
 | Website | [alvara.xyz](https://alvara.xyz) |
+| DAO | [dao.alvara.xyz](https://dao.alvara.xyz) |
+| Medium Blog | [alvaraprotocol.medium.com](https://alvaraprotocol.medium.com/) |
+| Bug Bounty | [alvara.xyz/bug-bounty](https://alvara.xyz/bug-bounty) |
 | White Paper | [GitHub PDF](https://github.com/Alvara-Protocol/Docs/blob/main/Alvara%20Protocol%20White%20Paper.pdf) |
 | Audit Reports | [GitHub Repository](https://github.com/Alvara-Protocol/Docs) |
 | ERC-7621 EIP | [eips.ethereum.org/EIPS/eip-7621](https://eips.ethereum.org/EIPS/eip-7621) |
+| Contact | [contact@alvara.xyz](mailto:contact@alvara.xyz) |
 
 ## Getting Help
 

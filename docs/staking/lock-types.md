@@ -39,14 +39,14 @@ Permanently lock your ALVA. The tokens can never be withdrawn.
 
 1. Deposit ALVA into the forever lock pool
 2. Receive veALVA at the 2.0x multiplier
-3. veALVA never decays — your governance power is permanent
+3. veALVA never decays. Your governance power is permanent
 4. Locked ALVA is permanently removed from circulating supply
 
 ### Why Lock Forever?
 
-- **Maximum staking rewards** — Forever locks receive the highest SRV (Staking Reward Vote) percentage at 50%
-- **Permanent governance power** — No decay means your voting power remains constant
-- **Deflationary** — Forever-locked ALVA is effectively burned, reducing total circulating supply
+- **Maximum staking rewards:** Forever locks receive the highest SRV (Staking Reward Vote) percentage at 50%
+- **Permanent governance power:** No decay means your voting power remains constant
+- **Deflationary:** Forever-locked ALVA is effectively burned, reducing total circulating supply
 
 ### The Tradeoff
 
@@ -69,7 +69,7 @@ The SRV determines what share of the staking reward pool you're eligible for:
 | 48 Months | 20% |
 | Forever | 50% |
 
-Note: 1-week and 1-month locks do not earn staking rewards. This ensures that only meaningful commitments are rewarded.
+Note: 1-week and 1-month locks do not earn staking rewards. So only meaningful commitments are rewarded.
 
 ## Choosing the Right Lock
 

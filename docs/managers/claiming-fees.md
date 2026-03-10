@@ -6,7 +6,7 @@ Managers earn fees on the assets under management in their BSKTs. These fees acc
 
 Management fees are generated based on the BSKT's total value locked (TVL). The fee structure is defined at the protocol level.
 
-Fees accrue continuously and are tracked by the smart contract. They do not need to be claimed at any specific interval — managers can claim whenever they choose.
+Fees accrue continuously and are tracked by the smart contract. They do not need to be claimed at any specific interval. Managers can claim whenever they choose.
 
 ## How to Claim
 
@@ -25,5 +25,5 @@ Fee claiming involves converting accrued fees into ETH, which requires token swa
 
 - Fees can only be claimed by the wallet holding the management NFT
 - There is no minimum claim amount
-- Claiming fees does not affect the basket's TVL or LP token value — fees are tracked separately from investor capital
+- Claiming fees does not affect the basket's TVL or LP token value. Fees are tracked separately from investor capital
 - If a constituent token has been delisted or is no longer tradeable, the claim process handles this automatically

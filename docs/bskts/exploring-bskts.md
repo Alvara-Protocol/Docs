@@ -20,7 +20,7 @@ Click on any BSKT to view its full detail page, which includes:
 Historical price data displayed as an interactive chart. View performance across multiple timeframes to understand how the basket has performed over time.
 
 ### Token Breakdown
-A visual breakdown of the basket's current allocation — which tokens it holds and their respective weights. This updates in real-time as token prices fluctuate.
+A visual breakdown of the basket's current allocation: which tokens it holds and their respective weights. This updates in real-time as token prices fluctuate.
 
 ### Performance Metrics
 Key performance indicators including returns over various timeframes (24h, 7d, 30d, all-time), helping you evaluate the manager's track record.
@@ -32,7 +32,7 @@ BSKTs display third-party risk ratings (powered by Xerberus) for constituent tok
 Details about the BSKT's manager, including their wallet address, linked social profiles, and Gitcoin Passport score (a measure of identity verification).
 
 ### Activity Feed
-A chronological record of all transactions related to the BSKT — deposits, redemptions, rebalances, and other events.
+A chronological record of all transactions related to the BSKT: deposits, redemptions, rebalances, and other events.
 
 ### Manager Notes
 Managers can publish notes explaining their strategy, recent decisions, or market outlook. This provides context beyond the raw on-chain data.

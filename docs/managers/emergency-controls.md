@@ -26,7 +26,7 @@ Emergency controls are a last resort. They should be used when:
 - **A constituent token is compromised** (exploit, depegging, rug pull)
 - **Extreme market conditions** make holding the current allocation dangerously risky
 
-They should **not** be used for routine portfolio adjustments — use standard rebalancing for that.
+They should **not** be used for routine portfolio adjustments. Use standard rebalancing for that.
 
 ## Impact on Investors
 

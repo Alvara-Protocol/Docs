@@ -12,12 +12,12 @@ Alvara Protocol and its contributors do not endorse, recommend, or advise buying
 
 Interaction with Alvara Protocol involves significant risks including but not limited to:
 
-- **Smart contract risk** — Loss of funds due to software vulnerabilities
-- **Market risk** — Volatility and potential total loss of token value
-- **Regulatory risk** — Changes in laws that may affect token legality or platform access
-- **Manager risk** — Poor allocation decisions by BSKT managers
-- **Liquidity risk** — Inability to exit positions at fair value
-- **Technology risk** — Network congestion, failed transactions, or protocol downtime
+- **Smart contract risk:** Loss of funds due to software vulnerabilities
+- **Market risk:** Volatility and potential total loss of token value
+- **Regulatory risk:** Changes in laws that may affect token legality or platform access
+- **Manager risk:** Poor allocation decisions by BSKT managers
+- **Liquidity risk:** Inability to exit positions at fair value
+- **Technology risk:** Network congestion, failed transactions, or protocol downtime
 
 Users assume full responsibility for evaluating these risks before interacting with the protocol.
 

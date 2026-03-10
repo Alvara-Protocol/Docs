@@ -10,11 +10,11 @@ Enter the amount of ETH you want to seed the basket with. This ETH will be:
 2. Converted into the constituent tokens via DEX swaps
 3. Deposited into the new BSKT smart contract
 
-You receive LP tokens representing your initial investment. This is your personal stake in the basket — not a fee.
+You receive LP tokens representing your initial investment. This is your personal stake in the (not a fee).
 
 ### Minimum Deposit
 
-The minimum initial funding is **0.1 ETH**. This ensures the basket has meaningful liquidity from launch.
+The minimum initial funding is **0.1 ETH**. The basket needs enough liquidity to function from launch.
 
 ### Creation Fee
 
@@ -43,4 +43,4 @@ Your BSKT is immediately visible on:
 - The **Leaderboard** where your performance will be tracked
 - Your **Portfolio** under "Created BSKTs"
 
-You can begin managing your basket right away — see [Rebalancing](../managers/rebalancing.md) and [Manager Overview](../managers/overview.md) for next steps.
+You can begin managing your basket right away. See [Rebalancing](../managers/rebalancing.md) and [Manager Overview](../managers/overview.md) for next steps.

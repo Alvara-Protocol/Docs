@@ -1,14 +1,14 @@
 # Creating a BSKT
 
-The BSKT Lab is where you create new tokenized investment portfolios. Any wallet can create a BSKT — there are no applications, approvals, or minimum track records required.
+The BSKT Lab is where you create new tokenized investment portfolios. Any wallet can create a BSKT. There are no applications, approvals, or minimum track records required.
 
 ## Overview
 
 Creating a BSKT is a three-step process:
 
-1. **Compose** — Select tokens and assign allocation weights
-2. **Design** — Name your BSKT, choose a ticker, and add branding
-3. **Fund** — Deposit the initial capital to deploy the basket on-chain
+1. **Compose:** Select tokens and assign allocation weights
+2. **Design:** Name your BSKT, choose a ticker, and add branding
+3. **Fund:** Deposit the initial capital to deploy the basket on-chain
 
 Once deployed, you become the BSKT's manager with full control over its allocation strategy.
 
@@ -31,7 +31,7 @@ When you deploy a BSKT:
 ## Important Notes
 
 - The manager can only rebalance the basket's allocation. They cannot withdraw other investors' funds.
-- Your initial ETH is converted into LP tokens — this is your personal investment in the basket, not a fee.
+- Your initial ETH is converted into LP tokens. This is your personal investment in the basket, not a fee.
 - A creation fee (percentage of the initial deposit) applies and is defined by the protocol.
 - Every BSKT must include a minimum ALVA allocation (see [Composing Your Allocation](composing-your-allocation.md)).
 
