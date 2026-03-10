@@ -27,8 +27,8 @@ Alvara operates across multiple networks depending on the action you're performi
 
 | Action | Network |
 | --- | --- |
-| Exploring & investing in BSKTs | Base |
-| Creating & managing BSKTs | Base |
+| Exploring & investing in BSKTs | Base or Ethereum |
+| Creating & managing BSKTs | Base or Ethereum |
 | Staking ALVA for veALVA | Ethereum Mainnet |
 | Claiming DAO rewards | Ethereum Mainnet |
 

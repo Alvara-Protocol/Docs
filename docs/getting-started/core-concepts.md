@@ -12,7 +12,7 @@ When you invest in a BSKT, you receive **LP tokens** representing your proportio
 - Fully on-chain and non-custodial
 - Manager controls allocation but cannot access investor funds
 - Any ERC-20 token on supported chains can be included
-- Must contain a minimum percentage of ALVA
+- Including ALVA in the allocation unlocks reduced platform fees
 
 ## Manager
 
@@ -27,8 +27,8 @@ Management rights are represented as an NFT, meaning they can be transferred or 
 ALVA is the native ERC-20 utility token of the Alvara Protocol. It serves three core functions:
 
 1. **Governance:** Lock ALVA to receive veALVA voting power
-2. **BSKT Requirement:** Every BSKT must contain a minimum ALVA allocation
-3. **Staking Rewards:** Stakers earn ALVA rewards proportional to their lock commitment
+2. **Fee Reduction:** Including ALVA in a BSKT unlocks reduced platform fees
+3. **Staking Rewards:** Stakers earn ALVA rewards via buybacks funded by a percentage of platform fees
 
 ALVA has a fixed maximum supply and is deflationary: tokens locked forever in the staking contract are permanently removed from circulating supply.
 

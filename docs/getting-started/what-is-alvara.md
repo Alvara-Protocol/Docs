@@ -13,7 +13,7 @@ Investors, meanwhile, face limited transparency. They trust managers with capita
 Alvara removes these barriers through four interconnected components:
 
 ### BSKT Lab
-A factory for creating tokenized investment portfolios. Any wallet can , a basket of ERC-20 tokens with custom weightings. No coding required. The minimum deployment cost is 0.1 ETH, and the creator automatically becomes the fund manager with full rebalancing control.
+A factory for creating tokenized investment portfolios. Any wallet can deploy a basket of ERC-20 tokens with custom weightings. No coding required. The minimum deployment cost is 0.1 ETH, and the creator automatically becomes the fund manager with full rebalancing control.
 
 ### Fund Manager System
 Managers earn fees on assets under management and can rebalance their BSKT's allocation at any time. A public leaderboard ranks managers by performance, so the best managers rise to the top. Management rights are represented as NFTs, meaning they can be transferred or sold.
@@ -30,5 +30,5 @@ veALVA holders participate in gauge weight voting each epoch, directing ALVA rew
 2. **Investors** deposit into BSKTs they believe in, receiving LP tokens
 3. **Stakers** lock ALVA for veALVA, gaining voting power
 4. **Voters** direct gauge weight rewards to BSKTs each epoch
-5. **Rewards** flow to participants based on their veALVA balance and voting activity
+5. **Rewards** flow to stakers and to LP holders of BSKTs that receive gauge-weight emissions
 

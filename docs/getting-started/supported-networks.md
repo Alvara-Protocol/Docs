@@ -1,10 +1,8 @@
 # Supported Networks
 
-Alvara Protocol operates across multiple blockchain networks, each serving a specific function within the ecosystem.
+Alvara Protocol operates across multiple blockchain networks.
 
-## Base (Primary)
-
-Base is the primary network for all BSKT operations:
+## Base
 
 - Creating BSKTs in the BSKT Lab
 - Depositing into and redeeming from BSKTs
@@ -12,17 +10,19 @@ Base is the primary network for all BSKT operations:
 - Claiming management fees
 - Browsing the BSKT explorer and leaderboard
 
-Base was chosen for its low transaction costs, fast confirmation times, and growing DeFi ecosystem.
+Base offers low transaction costs and fast confirmation times.
 
 ## Ethereum Mainnet
 
-Ethereum mainnet is used for governance and staking:
-
+- Creating BSKTs in the BSKT Lab
+- Depositing into and redeeming from BSKTs
+- Rebalancing BSKT allocations
+- Claiming management fees
 - Staking ALVA to earn veALVA
 - Claiming DAO gauge weight rewards
 - Governance-related contract interactions
 
-Staking and governance operate on Ethereum mainnet for security and decentralization. The app will prompt you to switch to Ethereum when performing these actions.
+Staking and governance operate on Ethereum mainnet. The app will prompt you to switch networks when needed.
 
 ## Avalanche
 
