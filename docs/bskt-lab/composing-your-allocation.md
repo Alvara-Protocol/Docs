@@ -4,7 +4,7 @@ The first step in creating a BSKT is selecting which tokens to include and how m
 
 ## Selecting Tokens
 
-Search for and add ERC-20 tokens available on the Base network. The token list is sourced from validated registries, so you only see legitimate tokens.
+Search for and add ERC-20 tokens available on the Ethereum network. The token list is sourced from validated registries, so you only see legitimate tokens.
 
 For each token you add, you assign a **weight:** the percentage of the basket's total value that should be allocated to that token.
 

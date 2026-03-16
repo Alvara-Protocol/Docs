@@ -35,7 +35,7 @@ The minimum ALVA requirement connects every basket to the Alvara ecosystem, crea
 ## Creating & Managing BSKTs
 
 **How much does it cost to create a BSKT?**
-The minimum seed capital is 0.1 ETH, plus a small creation fee (percentage of the deposit) and gas fees on Base.
+The minimum seed capital is 0.1 ETH, plus a small creation fee (percentage of the deposit) and Ethereum gas fees.
 
 **Can I manage multiple BSKTs?**
 Yes. There is no limit on the number of BSKTs a single wallet can create and manage.
@@ -83,7 +83,7 @@ No minimum is required to vote. However, creating governance proposals requires 
 ## Security
 
 **Have the contracts been audited?**
-Yes. QuillAudits has audited the BSKT Factory, Staking, and ALVA token contracts. Reports are available on the [Security](../security/audits.md) page.
+Yes. Alvara Protocol's smart contracts have been independently audited by CertiK, QuillAudits, and Adevar Labs. Audit scope varies by component and deployment; see the [Audits](../security/audits.md) page for full report details.
 
 **What is MEV protection?**
 MEV protection prevents front-running and sandwich attacks on your transactions. All swap operations in Alvara are MEV-protected automatically.

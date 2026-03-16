@@ -4,7 +4,7 @@ Interacting with Alvara Protocol involves multiple types of risk. This page outl
 
 ## Smart Contract Risk
 
-All DeFi protocols rely on smart contracts (code deployed on the blockchain). Despite audits and testing, smart contracts may contain undiscovered vulnerabilities that could result in loss of funds. Alvara's contracts have been audited by QuillAudits (see [Audits](audits.md)), but audits reduce risk without eliminating it.
+All DeFi protocols rely on smart contracts (code deployed on the blockchain). Despite audits and testing, smart contracts may contain undiscovered vulnerabilities that could result in loss of funds. Alvara Protocol's smart contracts have been independently audited by CertiK, QuillAudits, and Adevar Labs. Audit scope varies by component and deployment; see the [Audits](audits.md) page for full report details. Audits reduce risk without eliminating it.
 
 ## Market Risk
 

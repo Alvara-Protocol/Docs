@@ -14,9 +14,9 @@ Once deployed, you become the BSKT's manager with full control over its allocati
 
 ## Requirements
 
-- A Web3 wallet connected to the Base network
+- A Web3 wallet connected to the Ethereum network
 - Minimum 0.1 ETH to seed the basket
-- Additional ETH for gas fees on Base
+- Additional ETH for Ethereum gas fees
 
 ## What Happens When You Create a BSKT
 

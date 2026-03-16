@@ -24,7 +24,7 @@ A small creation fee (a percentage of the initial deposit) is charged by the pro
 
 Once you confirm and sign the transaction in your wallet:
 
-1. The BSKT smart contract is deployed on Base
+1. The BSKT smart contract is deployed on Ethereum
 2. Your ETH is swapped into the basket's tokens
 3. LP tokens are minted to your wallet
 4. The management NFT is minted to your wallet
