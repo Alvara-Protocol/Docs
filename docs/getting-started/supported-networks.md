@@ -2,16 +2,6 @@
 
 Alvara Protocol operates across multiple blockchain networks.
 
-## Base
-
-- Creating BSKTs in the BSKT Lab
-- Depositing into and redeeming from BSKTs
-- Rebalancing BSKT allocations
-- Claiming management fees
-- Browsing the BSKT explorer and leaderboard
-
-Base offers low transaction costs and fast confirmation times.
-
 ## Ethereum Mainnet
 
 - Creating BSKTs in the BSKT Lab
@@ -22,7 +12,16 @@ Base offers low transaction costs and fast confirmation times.
 - Claiming DAO gauge weight rewards
 - Governance-related contract interactions
 
-Staking and governance operate on Ethereum mainnet. The app will prompt you to switch networks when needed.
+The dApp and all BSKT operations are live on Ethereum mainnet.
+
+## Base (Coming Q1 2026)
+
+- Creating BSKTs in the BSKT Lab
+- Depositing into and redeeming from BSKTs
+- Rebalancing BSKT allocations
+- Claiming management fees
+
+Base support is planned for launch by end of March 2026, offering low transaction costs and fast confirmation times.
 
 ## Avalanche
 

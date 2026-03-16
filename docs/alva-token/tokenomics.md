@@ -19,9 +19,8 @@ ALVA has a fixed maximum supply of **200,000,000 tokens**. No additional tokens 
 |---|---|---|---|---|
 | Stage 1 - Seed Round | 4.0% | 8,000,000 | $0.150 | $1.2M |
 | Stage 2 - Private Round | 4.0% | 8,000,000 | $0.200 | $1.6M |
-| Stage 3 - Strategic Partners | 1.5% | 3,000,000 | $0.225 | $675K |
-| Stage 4 - KOL Round | 0.5% | 1,000,000 | $0.300 | $300K |
-| Stage 5 - Tenet | 4.0% | 8,000,000 | $0.300 | $2.4M |
+| Stage 3 - Strategic Partners | 2.0% | 4,000,000 | $0.244 | $975K |
+| Stage 4 - Public Round | 4.0% | 8,000,000 | $0.300 | $2.4M |
 | Stage 6 - Airdrop | 2.0% | 4,000,000 | $0.300 | - |
 | Team & Contributors | 15.0% | 30,000,000 | - | - |
 | Grants & Builder Rewards | 5.0% | 10,000,000 | - | - |
@@ -38,8 +37,7 @@ ALVA has a fixed maximum supply of **200,000,000 tokens**. No additional tokens 
 | Stage 1 - Seed Round | 6 | 24 | 0% |
 | Stage 2 - Private Round | 3 | 18 | 0% |
 | Stage 3 - Strategic Partners | 3 | 14 | 0% |
-| Stage 4 - KOL Round | 0 | 4 | 50% |
-| Stage 5 - Tenet | 0 | 4 | 25% |
+| Stage 4 - Public Round | 0 | 4 | 25% |
 | Stage 6 - Airdrop | 1 | 1 | 0% |
 | Team & Contributors | 12 | 33 | 0% |
 | Grants & Builder Rewards | DAO | DAO | 0% |
@@ -52,8 +50,8 @@ ALVA has a fixed maximum supply of **200,000,000 tokens**. No additional tokens 
 
 | Source | Tokens |
 |---|---|
-| Stage 4 - KOL Round | 500,000 |
-| Stage 5 - Tenet | 2,000,000 |
+| Strategic Partners | 500,000 |
+| Public Round | 2,000,000 |
 | DEX/CEX Liquidity | 10,000,000 |
 | **Total** | **12,500,000** |
 

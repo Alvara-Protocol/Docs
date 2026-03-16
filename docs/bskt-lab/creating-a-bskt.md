@@ -23,7 +23,7 @@ Once deployed, you become the BSKT's manager with full control over its allocati
 When you deploy a BSKT:
 
 1. Your ETH is converted into the tokens you selected, according to your specified weights
-2. A new BSKT smart contract is created on Base
+2. A new BSKT smart contract is created on Ethereum
 3. You receive **LP tokens** representing your initial investment (your personal capital)
 4. You receive the **management NFT**, granting you manager rights over the basket
 5. Your BSKT appears on the Explore page and Leaderboard

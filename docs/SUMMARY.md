@@ -62,8 +62,10 @@
 ## Resources
 
 * [Whitepaper](resources/whitepaper.md)
+* [Tokenomics Overview](resources/tokenomics-overview.md)
 * [Brand Kit](resources/brand-kit.md)
 * [FAQ](resources/faq.md)
 * [Glossary](resources/glossary.md)
 * [Community & Links](resources/community.md)
+* [Privacy Policy](resources/privacy-policy.md)
 * [Disclaimer](resources/disclaimer.md)

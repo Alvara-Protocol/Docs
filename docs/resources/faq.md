@@ -9,7 +9,7 @@ Alvara is a decentralized asset management platform where anyone can create, man
 No. Alvara is a decentralized application. You only need a Web3 wallet (MetaMask, Coinbase Wallet, etc.) to interact with the platform. No email, KYC, or registration required.
 
 **Which chains does Alvara support?**
-BSKTs operate on Base. Staking and DAO governance operate on Ethereum mainnet. ALVA is also available on Avalanche.
+BSKTs, staking, and DAO governance all operate on Ethereum mainnet. Base support is planned for Q1 2026. ALVA is also available on Avalanche.
 
 ---
 
