@@ -61,6 +61,8 @@
 
 ## Resources
 
+* [Whitepaper](resources/whitepaper.md)
+* [Brand Kit](resources/brand-kit.md)
 * [FAQ](resources/faq.md)
 * [Glossary](resources/glossary.md)
 * [Community & Links](resources/community.md)

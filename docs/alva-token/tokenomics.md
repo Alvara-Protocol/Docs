@@ -1,10 +1,61 @@
 # Tokenomics
 
-ALVA's token model drives value to long-term holders and aligns incentives across participants.
+ALVA has a fixed maximum supply of **200,000,000 tokens**. No additional tokens can be minted.
 
-## Supply
+## Key Figures
 
-ALVA has a fixed maximum supply. No additional tokens can be minted. This hard cap means the token is inherently non-inflationary.
+| Metric | Value |
+|--------|-------|
+| Total Supply | 200,000,000 ALVA |
+| Listing Price | $0.30 |
+| Fully Diluted Market Cap | $60,000,000 |
+| Target Raise | $6,175,000 |
+| Unlocked at Listing | 12,500,000 (6.25%) |
+| Market Cap at TGE | $750,000 |
+
+## Allocation
+
+| Distribution | % | Tokens | Token Price | Total Raise |
+|---|---|---|---|---|
+| Stage 1 - Seed Round | 4.0% | 8,000,000 | $0.150 | $1.2M |
+| Stage 2 - Private Round | 4.0% | 8,000,000 | $0.200 | $1.6M |
+| Stage 3 - Strategic Partners | 1.5% | 3,000,000 | $0.225 | $675K |
+| Stage 4 - KOL Round | 0.5% | 1,000,000 | $0.300 | $300K |
+| Stage 5 - Tenet | 4.0% | 8,000,000 | $0.300 | $2.4M |
+| Stage 6 - Airdrop | 2.0% | 4,000,000 | $0.300 | - |
+| Team & Contributors | 15.0% | 30,000,000 | - | - |
+| Grants & Builder Rewards | 5.0% | 10,000,000 | - | - |
+| Foundation | 10.0% | 20,000,000 | - | - |
+| Affiliate & Marketing | 5.0% | 10,000,000 | - | - |
+| DEX/CEX Liquidity | 5.0% | 10,000,000 | - | - |
+| BSKT Incentives | 44.0% | 88,000,000 | - | - |
+| **Total** | **100%** | **200,000,000** | | **$6,175,000** |
+
+## Vesting Schedule
+
+| Distribution | Cliff (Months) | Vesting (Months) | Unlock at TGE |
+|---|---|---|---|
+| Stage 1 - Seed Round | 6 | 24 | 0% |
+| Stage 2 - Private Round | 3 | 18 | 0% |
+| Stage 3 - Strategic Partners | 3 | 14 | 0% |
+| Stage 4 - KOL Round | 0 | 4 | 50% |
+| Stage 5 - Tenet | 0 | 4 | 25% |
+| Stage 6 - Airdrop | 1 | 1 | 0% |
+| Team & Contributors | 12 | 33 | 0% |
+| Grants & Builder Rewards | DAO | DAO | 0% |
+| Foundation | 6 | 12 | 0% |
+| Affiliate & Marketing | 1 | 12 | 0% |
+| DEX/CEX Liquidity | 0 | 0 | 100% |
+| BSKT Incentives | DAO | 372 | 0% |
+
+## TGE Circulating Supply
+
+| Source | Tokens |
+|---|---|
+| Stage 4 - KOL Round | 500,000 |
+| Stage 5 - Tenet | 2,000,000 |
+| DEX/CEX Liquidity | 10,000,000 |
+| **Total** | **12,500,000** |
 
 ## Value Accrual
 
@@ -34,7 +85,3 @@ This creates a cycle:
 2. Use veALVA to vote and earn rewards
 3. Compound rewards back into the lock
 4. Increased veALVA earns more rewards
-
-## Distribution
-
-For detailed token distribution information, refer to the [Alvara Protocol White Paper](https://github.com/Alvara-Protocol/Docs/blob/main/Alvara%20Protocol%20White%20Paper.pdf).
