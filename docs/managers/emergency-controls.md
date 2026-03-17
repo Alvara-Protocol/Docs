@@ -4,7 +4,7 @@ Managers have access to emergency controls that allow them to quickly de-risk a 
 
 ## Emergency Stables
 
-The Emergency Stables function converts the entire basket into approximately 95% USDT and 5% ALVA. The 5% ALVA allocation is retained to maintain the basket's mandatory ALVA weighting and preserve gauge reward eligibility. On networks where USDT liquidity is insufficient to execute the swap within slippage limits, WETH is used as the safe-haven asset instead. This is designed for situations where:
+The Emergency Stables function converts the entire basket into approximately 95% USDT and 5% ALVA. The 5% ALVA allocation is retained to ensure the basket continues to hold at least two assets, avoiding single-asset composition which could raise regulatory classification concerns. This is designed for situations where:
 
 - Constituent tokens are experiencing extreme volatility
 - A token in the basket has a critical vulnerability
