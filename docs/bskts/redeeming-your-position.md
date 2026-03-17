@@ -32,5 +32,5 @@ ETH redemptions involve token swaps and are protected against MEV attacks using 
 
 - Redemptions are processed instantly on-chain
 - You can redeem a partial amount of your LP tokens. You don't have to exit the full position
-- Gas fees on Base are required for the redemption transaction
+- Gas fees on the respective network are required for the redemption transaction
 - The value you receive is based on the current market prices of the underlying tokens at the time of redemption

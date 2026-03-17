@@ -14,7 +14,7 @@ Short-term speculators who buy ALVA without locking have no voting power. Long-t
 veALVA is your voting weight in gauge weight voting. Each epoch, veALVA holders direct ALVA rewards to specific BSKTs. More veALVA means more influence over reward allocation.
 
 ### Staking Rewards
-Stakers earn ALVA rewards proportional to their lock commitment. Longer locks receive a higher share of the staking reward pool (measured by , Staking Reward Vote percentage).
+Stakers earn ALVA rewards proportional to their lock commitment. Longer locks receive a higher share of the Staking Rewards Vault (measured by SRV percentage).
 
 ### DAO Participation
 veALVA is required to participate in Alvara DAO governance. Proposals on Snapshot are weighted by veALVA balance.

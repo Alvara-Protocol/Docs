@@ -44,7 +44,7 @@ Permanently lock your ALVA. The tokens can never be withdrawn.
 
 ### Why Lock Forever?
 
-- **Maximum staking rewards:** Forever locks receive the highest SRV (Staking Reward Vote) percentage at 50%
+- **Maximum staking rewards:** Forever locks receive the highest SRV (Staking Rewards Vault) percentage at 50%
 - **Permanent governance power:** No decay means your voting power remains constant
 - **Deflationary:** Forever-locked ALVA is effectively burned, reducing total circulating supply
 
@@ -52,7 +52,7 @@ Permanently lock your ALVA. The tokens can never be withdrawn.
 
 Forever locks offer the highest reward rates and permanent governance power, but the locked ALVA can never be recovered. Consider this carefully before committing.
 
-## Staking Reward Vote (SRV) Rates
+## Staking Rewards Vault (SRV) Rates
 
 The SRV determines what share of the staking reward pool you're eligible for:
 

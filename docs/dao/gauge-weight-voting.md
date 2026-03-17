@@ -1,6 +1,6 @@
 # Gauge Weight Voting
 
-Gauge weight voting is the primary governance mechanism of the Alvara DAO. Each epoch, veALVA holders vote to direct ALVA reward emissions toward specific BSKTs.
+Gauge weight voting is a core governance mechanism of the Alvara DAO. Each epoch, veALVA holders vote to direct ALVA reward emissions toward specific BSKTs.
 
 ## How It Works
 

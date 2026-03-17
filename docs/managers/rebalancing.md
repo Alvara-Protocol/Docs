@@ -30,6 +30,6 @@ Like all BSKT operations, rebalancing is MEV-protected. The protocol's backend c
 ## Important Considerations
 
 - **Slippage:** Large rebalances involving low-liquidity tokens may experience slippage. The protocol accounts for this automatically, but be mindful of the size of your swaps relative to available liquidity.
-- **Gas costs:** Each rebalance requires gas on Base. More tokens in the basket means more swaps and higher gas costs.
+- **Gas costs:** Each rebalance requires gas on whichever network the BSKT is deployed on. More tokens in the basket means more swaps and higher gas costs.
 - **Investor impact:** Rebalancing changes the composition of every LP token holder's position. Rebalance thoughtfully and consider publishing manager notes explaining your rationale.
 - **Frequency:** There's no limit on how often you can rebalance, but frequent rebalancing incurs gas costs and may erode investor confidence if changes appear erratic.

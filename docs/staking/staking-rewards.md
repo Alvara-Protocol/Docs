@@ -2,9 +2,11 @@
 
 Stakers earn ALVA rewards proportional to their lock commitment. The longer and larger your lock, the greater your share of the reward pool.
 
+Staking rewards are funded by ALVA bought back from a percentage of platform fees. Previously, the Staking Rewards Vault was subsidized by the Alvara Foundation with ALVA allocations, but going forward all rewards come from protocol fee buybacks.
+
 ## How Rewards Accrue
 
-Staking rewards are distributed continuously based on your SRV (Staking Reward Vote) rate. Your SRV rate is determined by your lock period:
+Staking rewards are distributed continuously based on your SRV (Staking Rewards Vault) rate. Your SRV rate is determined by your lock period:
 
 - Short locks (1 week, 1 month) earn **no staking rewards**
 - Medium locks (3-12 months) earn **moderate rewards**

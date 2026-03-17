@@ -1,7 +1,7 @@
 # Glossary
 
 **ALVA**
-The native ERC-20 utility token of the Alvara Protocol. Used for governance (via veALVA staking), BSKT allocation requirements, and staking rewards.
+The native ERC-20 utility token of the Alvara Protocol. Used for governance (via veALVA staking), BSKT fee reduction, and staking rewards.
 
 **AUM (Assets Under Management)**
 The total value of assets managed by a specific manager across all their BSKTs.
@@ -42,7 +42,7 @@ Profit extracted by reordering or inserting transactions within a block. Common 
 **Rebalancing**
 The process by which a manager changes a BSKT's token allocation. Involves selling existing tokens and purchasing new ones according to updated weights.
 
-**SRV (Staking Reward Vote)**
+**SRV (Staking Rewards Vault)**
 A percentage that determines a staker's share of the staking reward pool. Higher SRV rates are earned by longer lock periods.
 
 **Time Lock**

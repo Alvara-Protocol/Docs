@@ -10,7 +10,7 @@ Enter the amount of ETH you want to seed the basket with. This ETH will be:
 2. Converted into the constituent tokens via DEX swaps
 3. Deposited into the new BSKT smart contract
 
-You receive LP tokens representing your initial investment. This is your personal stake in the (not a fee).
+You receive LP tokens representing your initial contribution. This is your personal stake in the basket, not a fee.
 
 ### Minimum Deposit
 

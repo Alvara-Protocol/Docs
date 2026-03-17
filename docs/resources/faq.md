@@ -27,8 +27,8 @@ No. BSKTs are non-custodial. The manager can change the basket's token allocatio
 **Can I withdraw at any time?**
 Yes. There are no lock-up periods for BSKT investments. You can redeem your LP tokens for ETH or underlying tokens at any time.
 
-**Why does every BSKT need ALVA?**
-The minimum ALVA requirement connects every basket to the Alvara ecosystem, creates organic demand for the token, and ensures all BSKTs contribute to the protocol's tokenomics.
+**Why do BSKTs include ALVA?**
+On Ethereum, BSKTs currently require a minimum ALVA allocation, which connects every basket to the Alvara ecosystem and creates organic demand for the token. With the upcoming Base deployment, including ALVA becomes optional but incentivized through reduced platform fees.
 
 ---
 

@@ -8,35 +8,35 @@ The Alvara Protocol White Paper covers the technical architecture, token economi
 English (PDF)
 {% endfile %}
 
-{% file src="../../Alvara_WP_v2_Chinese.pdf" %}
+{% file src="../../Alvara Protocol White Paper v2 Chinese.pdf" %}
 中文简体 / Chinese (PDF)
 {% endfile %}
 
-{% file src="../../Alvara_WP_v2_Korean.pdf" %}
+{% file src="../../Alvara Protocol White Paper v2 Korean.pdf" %}
 한국어 / Korean (PDF)
 {% endfile %}
 
-{% file src="../../Alvara_WP_v2_Japanese.pdf" %}
+{% file src="../../Alvara Protocol White Paper v2 Japanese.pdf" %}
 日本語 / Japanese (PDF)
 {% endfile %}
 
-{% file src="../../Alvara_WP_v2_Russian.pdf" %}
+{% file src="../../Alvara Protocol White Paper v2 Russian.pdf" %}
 Русский / Russian (PDF)
 {% endfile %}
 
-{% file src="../../Alvara_WP_v2_Turkish.pdf" %}
+{% file src="../../Alvara Protocol White Paper v2 Turkish.pdf" %}
 Türkçe / Turkish (PDF)
 {% endfile %}
 
-{% file src="../../Alvara_WP_v2_Vietnamese.pdf" %}
+{% file src="../../Alvara Protocol White Paper v2 Vietnamese.pdf" %}
 Tiếng Việt / Vietnamese (PDF)
 {% endfile %}
 
-{% file src="../../Alvara_WP_v2_Portuguese.pdf" %}
+{% file src="../../Alvara Protocol White Paper v2 Portuguese.pdf" %}
 Português / Portuguese (PDF)
 {% endfile %}
 
-{% file src="../../Alvara_WP_v2_Spanish.pdf" %}
+{% file src="../../Alvara Protocol White Paper v2 Spanish.pdf" %}
 Español / Spanish (PDF)
 {% endfile %}
 

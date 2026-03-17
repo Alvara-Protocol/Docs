@@ -4,13 +4,13 @@ Managers earn fees on the assets under management in their BSKTs. These fees acc
 
 ## How Fees Work
 
-Management fees are generated based on the BSKT's total value locked (TVL). The fee structure is defined at the protocol level.
+Management fees are collected as additional LP tokens minted at each deposit into the BSKT. The fee is taken from the basket's net asset value (NAV). The fee structure is defined at the protocol level.
 
-Fees accrue continuously and are tracked by the smart contract. They do not need to be claimed at any specific interval. Managers can claim whenever they choose.
+Fees accrue with each deposit and are tracked by the smart contract. They do not need to be claimed at any specific interval. Managers can claim whenever they choose.
 
 ## How to Claim
 
-1. Navigate to your BSKT's management dashboard
+1. Navigate to your BSKT's management page
 2. View your pending fee earnings
 3. Click **Claim Fees**
 4. Confirm the transaction in your wallet

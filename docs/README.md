@@ -17,7 +17,7 @@ Alvara Protocol is a decentralized asset management platform built on the Basket
 | Launch App | [app.alvara.xyz](https://app.alvara.xyz) |
 | Governance Forum | [governance.alvara.xyz](https://governance.alvara.xyz) |
 | Snapshot Voting | [snapshot.org/#/s:bskt.eth](https://snapshot.org/#/s:bskt.eth) |
-| White Paper | [GitHub](https://github.com/Alvara-Protocol/Docs/blob/main/Alvara%20Protocol%20White%20Paper.pdf) |
+| White Paper | [docs.alvara.xyz/resources/whitepaper](resources/whitepaper.md) |
 | Discord | [discord.com/invite/alvaraprotocol](https://discord.com/invite/alvaraprotocol) |
 | Telegram | [t.me/alvaraprotocol](https://t.me/alvaraprotocol) |
 | X (Twitter) | [@AlvaraProtocol](https://x.com/AlvaraProtocol) |

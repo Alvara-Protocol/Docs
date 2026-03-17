@@ -61,7 +61,7 @@ All other allocations, including Strategic Partners, were fully locked at TGE wi
 ALVA captures value through several mechanisms:
 
 ### BSKT Demand
-Every BSKT must include a minimum ALVA allocation. As more baskets are created and grow in TVL, more ALVA is required to meet this allocation threshold. This creates predictable, organic buy pressure that scales with protocol adoption.
+On Ethereum, every BSKT currently includes a minimum ALVA allocation. Including ALVA in a BSKT's allocation unlocks reduced platform fees, incentivizing organic demand for the token that scales with protocol adoption. With the upcoming Base deployment, the ALVA allocation becomes a variable parameter rather than a strict requirement.
 
 ### Staking Lock-Up
 ALVA locked in staking contracts (especially forever locks) permanently removes tokens from circulation. As more participants stake, the effective circulating supply decreases.

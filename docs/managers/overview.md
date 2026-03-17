@@ -22,7 +22,7 @@ This separation of powers ensures the system is non-custodial. Managers control 
 
 ## Manager Dashboard
 
-Access your management dashboard by navigating to your BSKT's detail page while connected with the manager wallet. The dashboard provides:
+Access your management dashboard via the BSKT management page. This is a separate page from the BSKT detail page, accessible only to the manager wallet. You can find a link to it in your Portfolio page and on the BSKT detail page (visible only when your manager wallet is connected). The dashboard provides:
 
 - Current allocation breakdown
 - TVL and performance metrics

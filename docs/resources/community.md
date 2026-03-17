@@ -24,7 +24,7 @@
 | DAO | [dao.alvara.xyz](https://dao.alvara.xyz) |
 | Medium Blog | [alvaraprotocol.medium.com](https://alvaraprotocol.medium.com/) |
 | Bug Bounty | [alvara.xyz/bug-bounty](https://alvara.xyz/bug-bounty) |
-| White Paper | [GitHub PDF](https://github.com/Alvara-Protocol/Docs/blob/main/Alvara%20Protocol%20White%20Paper.pdf) |
+| White Paper | [docs.alvara.xyz/resources/whitepaper](whitepaper.md) |
 | Audit Reports | [GitHub Repository](https://github.com/Alvara-Protocol/Docs) |
 | ERC-7621 EIP | [eips.ethereum.org/EIPS/eip-7621](https://eips.ethereum.org/EIPS/eip-7621) |
 | Contact | [contact@alvara.xyz](mailto:contact@alvara.xyz) |

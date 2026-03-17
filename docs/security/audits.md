@@ -4,17 +4,17 @@ Alvara Protocol's smart contracts have been independently audited by three secur
 
 ## Completed Audits
 
-### CertiK — Staking & BSKT Contracts (Base Deployment)
+### CertiK — Staking & BSKT Contracts
 
-Full security assessment of the staking platform and BSKT core contracts, covering BTS.sol, Factory.sol, and BTSPair.sol. Methods included formal verification, manual review, and static analysis.
+Full security assessment of the staking platform and BSKT core contracts, covering BSKT.sol, Factory.sol, and BSKTPair.sol. Methods included formal verification, manual review, and static analysis.
 
 **Auditor:** [CertiK](https://www.certik.com/)
 **Date:** June 12, 2025
-**Scope:** Staking, BSKT Factory, BTS, BTSPair (EVM Compatible)
+**Scope:** Staking, BSKT Factory, BSKT, BSKTPair (EVM Compatible)
 **Findings:** 18 total — 14 resolved, 4 acknowledged. 1 critical (resolved), 2 major (1 resolved, 1 acknowledged), 4 medium (all resolved), 8 minor (6 resolved, 2 acknowledged), 2 informational (all resolved).
 **Report:** [CertiK Audit Report (PDF)](https://github.com/Alvara-Protocol/Docs/blob/main/Alvara%20Protocol%20Security%20Assessment%20-%20CertiK.pdf)
 
-### QuillAudits — BSKT Factory & BTS Contracts
+### QuillAudits — BSKT Factory & BSKT Contracts
 
 The core BSKT creation and management contracts have been audited. This covers the factory contract, basket token logic, deposit/redemption mechanics, and rebalancing functionality.
 

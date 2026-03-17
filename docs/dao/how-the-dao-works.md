@@ -4,7 +4,7 @@ The Alvara DAO is the decentralized governance body of the protocol. It is gover
 
 ## Governance Model
 
-Alvara uses a **gauge weight** governance model, similar to protocols like Curve and Balancer. Instead of voting on individual proposals for protocol changes, veALVA holders vote on how to allocate reward emissions across BSKTs.
+Alvara's governance includes a **gauge weight voting** mechanism, similar to protocols like Curve and Balancer. As well as voting on individual proposals for protocol changes, veALVA holders vote on how to allocate reward emissions across BSKTs.
 
 This creates a feedback loop:
 1. **Managers** create high-performing BSKTs to attract gauge weight votes

@@ -16,8 +16,8 @@ The BSKT smart contract holds all underlying assets. The manager can change the 
 ### Transparent
 Every BSKT's allocation, performance, and transaction history is fully visible on-chain. The Alvara app displays real-time data including current holdings, price history, and manager activity.
 
-### ALVA Requirement
-Every BSKT must include a minimum percentage of ALVA in its allocation. This creates organic demand for the ALVA token and connects every basket to the broader Alvara ecosystem.
+### ALVA Allocation
+On Ethereum, every BSKT currently includes a minimum percentage of ALVA in its allocation, creating organic demand for the ALVA token and connecting every basket to the broader Alvara ecosystem. With the upcoming Base deployment, this becomes a variable parameter — including ALVA unlocks reduced platform fees rather than being a strict requirement.
 
 ### Manager-Controlled
 Each BSKT has a single manager who controls the investment strategy. Managers can:

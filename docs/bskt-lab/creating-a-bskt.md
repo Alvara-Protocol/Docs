@@ -31,9 +31,9 @@ When you deploy a BSKT:
 ## Important Notes
 
 - The manager can only rebalance the basket's allocation. They cannot withdraw other investors' funds.
-- Your initial ETH is converted into LP tokens. This is your personal investment in the basket, not a fee.
+- Your initial ETH is used to purchase the underlying tokens according to your allocation weights. LP tokens are minted to represent your contribution — this is your personal investment in the basket, not a fee.
 - A creation fee (percentage of the initial deposit) applies and is defined by the protocol.
-- Every BSKT must include a minimum ALVA allocation (see [Composing Your Allocation](composing-your-allocation.md)).
+- On Ethereum, every BSKT must currently include a minimum ALVA allocation (see [Composing Your Allocation](composing-your-allocation.md)). This requirement is changing with the upcoming Base deployment.
 
 ## Draft Saving
 

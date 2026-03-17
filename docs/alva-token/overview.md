@@ -7,11 +7,11 @@ ALVA is the native utility token of the Alvara Protocol. It serves as the founda
 ### 1. Governance
 Lock ALVA to receive veALVA, the protocol's governance token. veALVA holders vote in gauge weight elections each epoch, directing ALVA rewards to BSKTs. veALVA is also used for Snapshot governance proposals.
 
-### 2. BSKT Requirement
-Every BSKT must include a minimum percentage of ALVA in its allocation. This creates organic, continuous demand for the token as new baskets are created and existing ones grow in TVL.
+### 2. BSKT Fee Reduction
+Including ALVA in a BSKT's allocation unlocks reduced platform fees. On Ethereum, a minimum ALVA percentage is currently required. With the upcoming Base deployment, this becomes a variable parameter — including ALVA is incentivized through fee reductions rather than being mandatory.
 
 ### 3. Staking Rewards
-Stakers earn ALVA rewards proportional to their lock duration and amount. The reward system incentivizes long-term commitment to the protocol.
+Stakers earn ALVA rewards proportional to their lock duration and amount. Rewards are funded by ALVA bought back from a percentage of platform fees. The reward system incentivizes long-term commitment to the protocol.
 
 ## Token Properties
 

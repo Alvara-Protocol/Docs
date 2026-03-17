@@ -32,4 +32,4 @@ All deposits are protected against MEV (Maximal Extractable Value) attacks. The 
 
 **Token risk:** The underlying tokens in a BSKT are subject to their own market risks. A basket holding volatile tokens will itself be volatile. Check the risk ratings on the BSKT detail page.
 
-**Network:** BSKT deposits are available on Eth and Base. Ensure your wallet is connected to the correct network and that you have ETH on the correct chain for the deposit and gas fees.
+**Network:** BSKT deposits are currently available on Ethereum, with Base support coming soon. Ensure your wallet is connected to the correct network and that you have ETH on the correct chain for the deposit and gas fees.

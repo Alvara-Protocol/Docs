@@ -4,13 +4,13 @@ The first step in creating a BSKT is selecting which tokens to include and how m
 
 ## Selecting Tokens
 
-Search for and add ERC-20 tokens available on the Ethereum network. The token list is sourced from validated registries, so you only see legitimate tokens.
+Search for and add ERC-20 tokens available on the Ethereum network (Base and other networks coming soon). The token list is sourced from validated registries, so you only see legitimate tokens.
 
 For each token you add, you assign a **weight:** the percentage of the basket's total value that should be allocated to that token.
 
-## ALVA Minimum
+## ALVA Allocation
 
-Every BSKT must include ALVA as part of its allocation. The minimum ALVA percentage is set by the protocol and is enforced automatically. This requirement:
+Currently, every BSKT on Ethereum must include ALVA as part of its allocation. The minimum ALVA percentage is set by the protocol and is enforced automatically. This requirement:
 
 - Creates consistent demand for the ALVA token
 - Connects every basket to the Alvara ecosystem
@@ -18,11 +18,13 @@ Every BSKT must include ALVA as part of its allocation. The minimum ALVA percent
 
 The remaining allocation is entirely up to you.
 
+> **Note:** With the upcoming Base deployment, the mandatory ALVA minimum will become a variable parameter. Including ALVA in your allocation will unlock reduced platform fees rather than being a strict requirement.
+
 ## Weight Rules
 
 - All weights must add up to exactly **100%**
 - Each token must have a weight greater than 0%
-- The ALVA minimum must be met
+- The ALVA allocation requirement must be met (see above)
 - There is no maximum number of tokens, but larger baskets may incur higher gas costs
 
 ## Token Tax Detection
