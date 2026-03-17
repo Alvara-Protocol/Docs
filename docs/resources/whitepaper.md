@@ -5,18 +5,50 @@ The Alvara Protocol White Paper covers the technical architecture, token economi
 ## Download
 
 {% file src="../../Alvara Protocol White Paper v2.pdf" %}
-Alvara Protocol White Paper v2.0 (PDF)
+English (PDF)
+{% endfile %}
+
+{% file src="../../Alvara_WP_v2_Chinese.pdf" %}
+中文简体 / Chinese (PDF)
+{% endfile %}
+
+{% file src="../../Alvara_WP_v2_Korean.pdf" %}
+한국어 / Korean (PDF)
+{% endfile %}
+
+{% file src="../../Alvara_WP_v2_Japanese.pdf" %}
+日本語 / Japanese (PDF)
+{% endfile %}
+
+{% file src="../../Alvara_WP_v2_Russian.pdf" %}
+Русский / Russian (PDF)
+{% endfile %}
+
+{% file src="../../Alvara_WP_v2_Turkish.pdf" %}
+Türkçe / Turkish (PDF)
+{% endfile %}
+
+{% file src="../../Alvara_WP_v2_Vietnamese.pdf" %}
+Tiếng Việt / Vietnamese (PDF)
+{% endfile %}
+
+{% file src="../../Alvara_WP_v2_Portuguese.pdf" %}
+Português / Portuguese (PDF)
+{% endfile %}
+
+{% file src="../../Alvara_WP_v2_Spanish.pdf" %}
+Español / Spanish (PDF)
 {% endfile %}
 
 ## Summary
 
 The whitepaper covers:
 
-- **ERC-7621 Standard** — Design rationale, architecture, and interface specification for the basket token standard
-- **Protocol Architecture** — Smart contract structure, factory pattern, and composability model
-- **Tokenomics** — ALVA token distribution, vesting schedules, and value accrual mechanisms
-- **Governance** — DAO structure, gauge-weight voting, and epoch-based reward distribution
-- **Security Model** — Audit strategy, MEV protection, and risk management framework
+- **ERC-7621 Standard**: Design rationale, architecture, and interface specification for the basket token standard
+- **Protocol Architecture**: Smart contract structure, factory pattern, and composability model
+- **Tokenomics**: ALVA token distribution, vesting schedules, and value accrual mechanisms
+- **Governance**: DAO structure, gauge-weight voting, and epoch-based reward distribution
+- **Security Model**: Audit strategy, MEV protection, and risk management framework
 
 ## Related Resources
 
