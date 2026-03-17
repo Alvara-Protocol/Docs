@@ -4,8 +4,8 @@ The Alvara Protocol White Paper covers the technical architecture, token economi
 
 ## Download
 
-{% file src="../../Alvara Protocol White Paper.pdf" %}
-Alvara Protocol White Paper (PDF)
+{% file src="../../Alvara Protocol White Paper v2.pdf" %}
+Alvara Protocol White Paper v2.0 (PDF)
 {% endfile %}
 
 ## Summary
