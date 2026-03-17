@@ -10,8 +10,8 @@ ALVA has a fixed maximum supply of **200,000,000 tokens**. No additional tokens 
 | Listing Price | $0.30 |
 | Fully Diluted Market Cap | $60,000,000 |
 | Target Raise | $6,175,000 |
-| Unlocked at Listing | 12,500,000 (6.25%) |
-| Market Cap at TGE | $750,000 |
+| Unlocked at Listing | 12,000,000 (6%) |
+| Market Cap at TGE | $3,600,000 |
 
 ## Allocation
 
@@ -50,10 +50,11 @@ ALVA has a fixed maximum supply of **200,000,000 tokens**. No additional tokens 
 
 | Source | Tokens |
 |---|---|
-| Strategic Partners | 500,000 |
-| Public Round | 2,000,000 |
-| DEX/CEX Liquidity | 10,000,000 |
-| **Total** | **12,500,000** |
+| Public Round (25% TGE unlock) | 2,000,000 |
+| DEX/CEX Liquidity (100% unlocked) | 10,000,000 |
+| **Total** | **12,000,000** |
+
+All other allocations, including Strategic Partners, were fully locked at TGE with their respective cliff and vesting schedules.
 
 ## Value Accrual
 

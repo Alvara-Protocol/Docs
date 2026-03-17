@@ -26,11 +26,11 @@ Stakers earn ALVA rewards proportional to their lock duration and amount. The re
 
 ALVA is available on multiple chains:
 
-- **Base:** Primary chain for BSKT operations
-- **Ethereum Mainnet:** Staking, governance, and DAO reward claims
-- **Avalanche:** Additional availability
+- **Ethereum Mainnet:** BSKT Lab, staking platform, governance, and DAO reward claims
+- **Base:** ALVA trading and DEX liquidity available; BSKT Lab deployment planned Q1 2026
+- **Avalanche:** ALVA trading and DEX liquidity available
 
-Your total ALVA balance across all chains is displayed in your Portfolio.
+ALVA can be bridged between Ethereum, Base and Avalanche via cross-chain bridges (Axelar / Squidrouter). DEX liquidity for ALVA is available on each supported chain. Your total ALVA balance across all chains is displayed in your Portfolio.
 
 ## Deflationary Mechanics
 

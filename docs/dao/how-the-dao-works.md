@@ -26,7 +26,7 @@ Your voting power equals your veALVA balance. More veALVA means more influence o
 For protocol-level governance decisions (beyond gauge weight voting):
 
 - **Viewing**: Anyone can view proposals on [Snapshot](https://snapshot.org/#/s:bskt.eth)
-- **Creating**: Requires more than 2,000 veALVA
+- **Creating**: Requires 3,000 veALVA minimum
 - **Voting**: No minimum veALVA required
 - **Pass threshold**: 51% of votes cast, with a 20% quorum of total veALVA
 
