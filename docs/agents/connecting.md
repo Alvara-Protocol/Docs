@@ -44,7 +44,7 @@ Add the Alvara server:
 }
 ```
 
-Set `ALVARA_API_URL` to `https://base-api.alvara.xyz` instead if you want to work with baskets on Base. Restart Claude Desktop after editing. The Alvara tools appear in the tools menu.
+Set `ALVARA_API_URL` to the endpoint for the chain you want to work with (see the table below). Restart Claude Desktop after editing. The Alvara tools appear in the tools menu.
 
 ## Cursor
 
@@ -69,12 +69,12 @@ Any client supporting stdio transport can connect. Point it at `node /path/to/di
 
 | Variable | Required | Description |
 |---|---|---|
-| `ALVARA_API_URL` | No | API base URL. Defaults to `https://web1-api.alvara.xyz` (Ethereum). Set to `https://base-api.alvara.xyz` for Base |
+| `ALVARA_API_URL` | Yes | API base URL. Set to `https://web1-api.alvara.xyz` for Ethereum or `https://base-api.alvara.xyz` for Base |
 | `ALVARA_JWT` | No | Pre-authenticated session token. If unset, read-only tools still work |
 
 ### Switching networks
 
-The MCP server talks to one chain at a time, determined by `ALVARA_API_URL`. If you want to work with both Ethereum and Base, run two copies of the server under different names in your client config:
+The MCP server talks to one API at a time, determined by `ALVARA_API_URL`. If you want to work with both Ethereum and Base from the same AI client, run two copies of the server under different names:
 
 ```json
 {

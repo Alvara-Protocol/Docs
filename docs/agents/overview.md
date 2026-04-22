@@ -48,14 +48,14 @@ The server is a thin translation layer. Reads go through the public Alvara API. 
 
 ## Networks
 
-Alvara is live on both Ethereum mainnet and Base. The MCP server supports either.
+Alvara is live on both Ethereum mainnet and Base. The MCP server supports either. Point `ALVARA_API_URL` at the endpoint for the chain you want to work with.
 
 | Network | API endpoint |
 |---|---|
-| Ethereum mainnet | `https://web1-api.alvara.xyz` (default) |
+| Ethereum mainnet | `https://web1-api.alvara.xyz` |
 | Base | `https://base-api.alvara.xyz` |
 
-Ethereum hosts the majority of baskets and TVL. Base is also supported for users and agents managing lower-fee positions. Set `ALVARA_API_URL` to switch networks. See [Connecting Your AI](connecting.md) for configuration.
+See [Connecting Your AI](connecting.md) for configuration.
 
 ## Who This Is For
 
