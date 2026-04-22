@@ -53,6 +53,13 @@
 * [Tokenomics](alva-token/tokenomics.md)
 * [ERC-7621 Standard](alva-token/erc-7621.md)
 
+## Agents & MCP
+
+* [MCP Server Overview](agents/overview.md)
+* [Connecting Your AI](agents/connecting.md)
+* [Tool Reference](agents/tool-reference.md)
+* [Example Prompts](agents/example-prompts.md)
+
 ## Security
 
 * [Smart Contract Audits](security/audits.md)
