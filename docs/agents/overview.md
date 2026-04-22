@@ -41,10 +41,21 @@ Alvara MCP Server (runs locally)
     Alvara REST API
           |
           v
-User signs and submits transaction on Base
+User signs and submits transaction on Ethereum or Base
 ```
 
 The server is a thin translation layer. Reads go through the public Alvara API. Writes return transaction data for the user to sign. No database, no custodial infrastructure, no dependency on Alvara hosting anything beyond the existing public API.
+
+## Networks
+
+Alvara is live on both Ethereum mainnet and Base. The MCP server supports either.
+
+| Network | API endpoint |
+|---|---|
+| Ethereum mainnet | `https://web1-api.alvara.xyz` (default) |
+| Base | `https://base-api.alvara.xyz` |
+
+Ethereum hosts the majority of baskets and TVL. Base is also supported for users and agents managing lower-fee positions. Set `ALVARA_API_URL` to switch networks. See [Connecting Your AI](connecting.md) for configuration.
 
 ## Who This Is For
 
